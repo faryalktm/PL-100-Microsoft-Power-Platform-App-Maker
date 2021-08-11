@@ -62,7 +62,7 @@ In this exercise, you will create a custom solution publisher and a solution. Th
 
 3.  Enter **Company 311** for **Display name**.
 
-4.  Click on the **Publisher** dropdown and select **+ Publisher**.
+4.  Click on **+ Publisher** below **Publisher** drop down field
 
 ![Create new publisher - screenshot](02/media/image1.png)
 
@@ -78,7 +78,7 @@ In this exercise, you will create a custom solution publisher and a solution. Th
 
 ![Create solution - screenshot](02/media/image3.png)
 
-9.  You should now see the solution you crated in the solution list.
+9.  You should now see the solution you created in the solution list.
 
 ![Solution list - screenshot](02/media/image4.png)
 
@@ -605,7 +605,7 @@ In this exercise, you will input data.
 
 ![Row form - screenshot](02/media/image87.png)
 
-21. Click on the **Photo** Column.
+21. Click on the **Choose File** button available in **Photo** Column.
 
 ![Click Column - screenshot](02/media/image88.png)
 
@@ -629,7 +629,7 @@ In this exercise, you will import sample data into your environment. Rows are im
 
 2.  Select **Solutions** and click **Import**.
 
-3.  Click **Choose** **File**.
+3.  Click on **Browse** **Button**.
 
 4.  Select the **DataImport.zip** solution file located in the lab resources folder and click **Open**.
 
@@ -645,7 +645,7 @@ In this exercise, you will import sample data into your environment. Rows are im
 
 2.  Select **Solutions** and click to open the **Data Import** solution you imported.
 
-3.  Click to open the **Import Data** flow. Click the **Get Started** button on the **Welcome to Power Automare** window.
+3.  Click to open the **Import Data** flow. Click the **Get Started** button on the **Welcome to Power Automate** window.
 
 ![Open flow - screenshot](02/media/image90.png)
 
