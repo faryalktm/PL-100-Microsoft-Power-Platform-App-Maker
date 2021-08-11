@@ -126,7 +126,8 @@ In this task, you will create a canvas application using the phone form factor.
 
 2.  Select **Solutions** and click to open the **Company 311** solution.
 
-3.  Click **+ New | App |Canvas app | Phone form factor**.
+3.  Click **+ New | App |Canvas app
+4.  Once Canvas app window appear, select **Phone form factor** option
 
 ![Create canvas application - screenshot](03/media/image7.png)
 
@@ -136,7 +137,7 @@ In this task, you will create a canvas application using the phone form factor.
 
 6.  Click **File** and select **Save**.
 
-7.  Enter **Company 311 Phone App** for name and click **Save**.
+7.  Enter **Company 311 Phone App** for name and click **Create**.
 
 8.  Click on the back button.
 
