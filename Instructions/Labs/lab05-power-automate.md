@@ -74,7 +74,7 @@ In this task, you will create a flow that send notification when the status of p
 
 ![Select trigger - screenshot](05/media/image2.png)
 
-6.  Select **Update** for **Change type**; **Problem Reports** for **Table name**; **Organization** for **Scope**, and click **Show advanced options**.
+6.  Select **Modify** for **Change type**; **Problem Reports** for **Table name**; **Organization** for **Scope**, and click **Show advanced options**.
 
 7.  Enter **statuscode** for **Column filter** and **… Menu** button of the trigger step.
 
@@ -471,7 +471,7 @@ In this task you will replace the approval sent by email with the adaptive card.
 
 28. Click **Show advanced options**.
 
-29. Click to select the **Resolution** Column, go to the **Dynamic content** pane, and select **Response summary** from **Create an approval** step.
+29. Click to select the **Resolution** Column, go to the **Dynamic content** pane, and select **Response summary** from **Wait for an approval** step.
 
 #### Task 3: Test flow
 
